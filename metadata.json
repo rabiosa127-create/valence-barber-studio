@@ -1,0 +1,6 @@
+{
+  "name": "Valence Barber Studio",
+  "description": "A premium, minimalist modern barber studio. Precision haircuts, tailored beard grooming, and classic craftsmanship refined for today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
